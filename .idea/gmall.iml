@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gmall-parent/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-parent/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/fastdfs-client-java/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fastdfs-client-java/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-bean/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-bean/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-cart-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-cart-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-cart-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-cart-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-common-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-common-util/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-item-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-item-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-list-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-list-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-list-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-list-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-list-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-manage-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-manage-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-manage-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-manage-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-order-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-order-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-order-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-order-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-passport-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-passport-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-payment/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-payment/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-service-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-service-util/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-user-manage/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-user-manage/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-web-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gmall-web-util/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gware-manage/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gware-manage/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
